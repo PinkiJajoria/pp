@@ -1,0 +1,29 @@
+body{
+  background-color: #A2DBFA;
+  text-align: center;
+  font-family: serif;
+  height: 100%;
+}
+h1 {
+  position: relative;
+}
+p {
+  margin-bottom: 10%;
+}
+.content {
+  height: 100%;
+  position: relative;
+  padding-top: 15%;
+}
+.top_cloud{
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+.bottom_cloud{
+  position: absolute;
+  top: 40%;
+  left: 20%;
+}
+.mountains{
+}
